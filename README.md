@@ -10,4 +10,4 @@
 
 # I hope you enjoy the application as much as I enjoyed developing it!
 
-# Link to the application: https://burger-shop-bsedano.vercel.app/
+# Link to the application: https://halo-shop.vercel.app
